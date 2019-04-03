@@ -78,7 +78,7 @@ PageMenu is available through [CocoaPods](http://cocoapods.org). !! Swift only !
 
 To install add the following line to your Podfile:
 
-    pod 'PageMenu'
+    pod 'PageMenu', :git => 'https://github.com/orazz/PageMenu.git'
 
 **Carthage**
 
